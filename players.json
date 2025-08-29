@@ -1,0 +1,170 @@
+{
+  "ProPlayer1": {
+    "world_rank": 50,
+    "initial_elo": 3275,
+    "current_elo": 3436,
+    "league": "Advanced",
+    "races_played": 3
+  },
+  "FastDriver": {
+    "world_rank": 500,
+    "initial_elo": 2560,
+    "current_elo": 2598,
+    "league": "Intermediate",
+    "races_played": 2
+  },
+  "MidTier1": {
+    "world_rank": 2000,
+    "initial_elo": 2000,
+    "current_elo": 2046,
+    "league": "Intermediate",
+    "races_played": 2
+  },
+  "MidTier2": {
+    "world_rank": 5000,
+    "initial_elo": 1700,
+    "current_elo": 1740,
+    "league": "Intermediate",
+    "races_played": 3
+  },
+  "Average1": {
+    "world_rank": 10000,
+    "initial_elo": 1475,
+    "current_elo": 1526,
+    "league": "Beginner",
+    "races_played": 3
+  },
+  "Average2": {
+    "world_rank": 15000,
+    "initial_elo": 1410,
+    "current_elo": 1387,
+    "league": "Beginner",
+    "races_played": 3
+  },
+  "Rookie1": {
+    "world_rank": 25000,
+    "initial_elo": 1275,
+    "current_elo": 1361,
+    "league": "Beginner",
+    "races_played": 3
+  },
+  "Rookie2": {
+    "world_rank": 40000,
+    "initial_elo": 1070,
+    "current_elo": 1028,
+    "league": "Beginner",
+    "races_played": 3
+  },
+  "Beginner3": {
+    "world_rank": 20000,
+    "initial_elo": 1320,
+    "current_elo": 1283,
+    "league": "Beginner",
+    "races_played": 1
+  },
+  "Beginner6": {
+    "world_rank": 28000,
+    "initial_elo": 1230,
+    "current_elo": 1188,
+    "league": "Beginner",
+    "races_played": 1
+  },
+  "Inter1": {
+    "world_rank": 1500,
+    "initial_elo": 2070,
+    "current_elo": 2070,
+    "league": "Intermediate",
+    "races_played": 0
+  },
+  "Inter2": {
+    "world_rank": 800,
+    "initial_elo": 2280,
+    "current_elo": 2280,
+    "league": "Intermediate",
+    "races_played": 0
+  },
+  "Inter3": {
+    "world_rank": 1200,
+    "initial_elo": 2160,
+    "current_elo": 2160,
+    "league": "Intermediate",
+    "races_played": 0
+  },
+  "Inter4": {
+    "world_rank": 3000,
+    "initial_elo": 1850,
+    "current_elo": 1850,
+    "league": "Intermediate",
+    "races_played": 0
+  },
+  "Inter5": {
+    "world_rank": 4000,
+    "initial_elo": 1775,
+    "current_elo": 1775,
+    "league": "Intermediate",
+    "races_played": 0
+  },
+  "Inter6": {
+    "world_rank": 6000,
+    "initial_elo": 1625,
+    "current_elo": 1640,
+    "league": "Beginner",
+    "races_played": 1
+  },
+  "Inter7": {
+    "world_rank": 2500,
+    "initial_elo": 1925,
+    "current_elo": 1925,
+    "league": "Intermediate",
+    "races_played": 0
+  },
+  "Advanced1": {
+    "world_rank": 20,
+    "initial_elo": 3725,
+    "current_elo": 3782,
+    "league": "Advanced",
+    "races_played": 1
+  },
+  "Advanced2": {
+    "world_rank": 80,
+    "initial_elo": 3200,
+    "current_elo": 3279,
+    "league": "Advanced",
+    "races_played": 1
+  },
+  "Advanced3": {
+    "world_rank": 30,
+    "initial_elo": 3575,
+    "current_elo": 3479,
+    "league": "Advanced",
+    "races_played": 1
+  },
+  "Advanced4": {
+    "world_rank": 60,
+    "initial_elo": 3350,
+    "current_elo": 3241,
+    "league": "Advanced",
+    "races_played": 1
+  },
+  "Advanced5": {
+    "world_rank": 40,
+    "initial_elo": 3425,
+    "current_elo": 3331,
+    "league": "Advanced",
+    "races_played": 1
+  },
+  "Advanced6": {
+    "world_rank": 90,
+    "initial_elo": 3050,
+    "current_elo": 3127,
+    "league": "Advanced",
+    "races_played": 1
+  },
+  "Advanced7": {
+    "world_rank": 70,
+    "initial_elo": 3275,
+    "current_elo": 3370,
+    "league": "Advanced",
+    "races_played": 1
+  }
+}
