@@ -36,11 +36,11 @@ class PlayerManager:
     def get_league(self, elo):
         """Determine league based on Elo rating"""
         if elo >= 3000:
-            return "Advanced"
+            return "Master"
         elif elo >= 1701:
-            return "Intermediate"
+            return "Champion"
         else:
-            return "Beginner"
+            return "Academy"
     
     def add_player(self, player_tag, world_rank):
         initial_elo = self.world_rank_to_elo(world_rank)

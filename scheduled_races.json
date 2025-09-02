@@ -1,1 +1,19 @@
-{}
+{
+  "scheduled_1": {
+    "name": "race 1",
+    "participants": [
+      "Advanced1",
+      "Advanced2",
+      "Advanced3",
+      "Advanced4",
+      "Advanced5",
+      "Advanced6",
+      "Advanced7",
+      "ProPlayer1"
+    ],
+    "is_match": true,
+    "scheduled_date": "2025-09-02T13:17:54.404280",
+    "created_date": "2025-09-02T13:17:54.404327",
+    "status": "scheduled"
+  }
+}
